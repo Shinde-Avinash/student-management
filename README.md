@@ -11,3 +11,7 @@ Simple Student management system using coldbiiox, coldfusion language
 <img width="1348" height="598" alt="image" src="https://github.com/user-attachments/assets/5d83d000-8710-421c-bc89-24f8fc633324" />
 <img width="1352" height="596" alt="image" src="https://github.com/user-attachments/assets/cb1a69fc-423f-4d56-8fc0-ac9969a4ff7c" />
 <img width="1348" height="597" alt="image" src="https://github.com/user-attachments/assets/17ef41aa-0976-4f20-bf91-1bd5638f3df2" />
+Admin:
+<img width="1364" height="600" alt="image" src="https://github.com/user-attachments/assets/f4b78ff1-05ea-495b-8987-3d1685f6f9b1" />
+<img width="1343" height="593" alt="image" src="https://github.com/user-attachments/assets/810457dc-c897-4fd3-ad03-f0dd3618e6f1" />
+<img width="1348" height="595" alt="image" src="https://github.com/user-attachments/assets/acee152d-07a9-4fce-8d0a-ea0a511debd2" />

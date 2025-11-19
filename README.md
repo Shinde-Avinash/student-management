@@ -1,6 +1,69 @@
-# student-management
-Simple Student management system using coldbiiox, coldfusion language
-<img width="1363" height="596" alt="image" src="https://github.com/user-attachments/assets/6f36e538-05e1-4e7d-a2c1-ace05d02eb69" />
+# Student Management System
+
+A web-based **Student Management System** built to manage student data, academic records, and school operations.  
+This system enables administrators, teachers, and staff to efficiently handle student profiles, classes, attendance, and grades.
+
+---
+
+## 📌 Features
+
+- **User Roles & Authentication**  
+  - Admins: full access to manage students, classes, and teachers  
+  - Teachers: access to student lists, attendance, and grading  
+
+- **Student Management**  
+  - Create, read, update, and delete student records  
+  - Store personal information, enrollment data, and more  
+
+- **Class & Course Management**  
+  - Manage class/courses offered in the school  
+  - Assign students to classes  
+
+- **Attendance Tracking**  
+  - Mark and view attendance for students  
+  - Generate attendance reports  
+
+- **Grading & Examination**  
+  - Enter and manage marks for students  
+  - Create grade reports  
+
+- **Reporting Module**  
+  - Reports for student lists, attendance summary, and grade distributions  
+  - Export data if needed  
+
+- **Responsive Frontend**  
+  - Built with **Bootstrap** for mobile-friendly layout  
+  - Simple and clean user interface  
+
+---
+
+## 🛠 Technologies Used
+
+- **Backend:** ColdFusion / ColdBox (or your specific backend)  
+- **Database:** MySQL  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Server / Dev Tools:** Command-Box (if using CFML), Git, GitHub  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- ColdFusion engine (or Lucee)  
+- MySQL database  
+- Web server (or use CommandBox for CFML)  
+- Git for version control  
+
+---
+
+### Installation
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Shinde-Avinash/student-management.git  
+   cd student-management  
+
 <img width="1364" height="595" alt="image" src="https://github.com/user-attachments/assets/a43b51e5-c35d-4652-aa6e-a0de6f8ec469" />
 <img width="1362" height="596" alt="image" src="https://github.com/user-attachments/assets/acc4bd87-25af-4be2-9aaf-f969e438d795" />
 <img width="1358" height="608" alt="image" src="https://github.com/user-attachments/assets/6d7451ba-096c-4998-832f-b9d4473df309" />
